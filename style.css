@@ -8,16 +8,16 @@ h1 {
 }
 
 nav {
-    border-top: 3px solid rgb(48, 89, 213);
+    border-top: 3px solid rgb(39, 43, 56);
     display: flex;
     justify-content: space-between;
-    border-bottom: 3px solid royalblue;
+    border-bottom: 3px solid rgb(0, 61, 18);
 }
 
 nav a {
     text-decoration: none;
     font-size: 20px;
-    color: rgb(65, 9, 24);
+    color: navy;
     margin-top: 15px;
     margin-bottom: 15px;
 }
@@ -27,7 +27,7 @@ nav a {
 }
 
 h2 {
-    color: rgb(255, 231, 13);
+    color: rgb(24, 25, 72);
     margin-left: 100px;
     font-size: 30px;
     font-family: cursive;
@@ -35,8 +35,8 @@ h2 {
 
 .catalog a {
     text-decoration: none;
-    color: rgb(0, 83, 39);
-    border-bottom: 1px dotted rgb(75, 31, 31);
+    color: black;
+    border-bottom: 1px dotted black;
     font-size: 20px;
 }
 
@@ -46,23 +46,23 @@ h2 {
     flex-wrap: wrap;
     width: 700px;
     margin: 0 30px;
-    background-color: rgb(136, 130, 214);
+    background-color: rgb(255, 196, 196);
 }
 
 .product {
     width: 150px;
     text-align: center;
     padding: 10px;
-    border: 5px double rgb(21, 15, 5);
+    border: 5px double rgb(255, 88, 191);
     margin-top: 40px;
     margin-bottom: 40px;
-    background-color: rgb(44, 255, 132);
+    background-color: bisque;
 }
 
 .principles {
     display: flex;
-    border-top: 5px solid navy;
-    border-bottom: 5px solid navy;
+    border-top: 5px solid rgb(207, 0, 52);
+    border-bottom: 5px solid rgb(164, 182, 0);
     justify-content: space-between; 
     width: 700px;
     margin: 0 30px;
@@ -83,7 +83,7 @@ h2 {
 
 .slogan_img {
     padding: 10px;
-    border: 5px solid orange;
+    border: 5px solid rgb(39, 23, 9);
     border-radius: 50%;
 }
 
@@ -94,8 +94,8 @@ h2 {
 }
 
 footer {
-    background-color: rgb(0, 142, 177);
-    color: rgb(38, 0, 143);
+    background-color: darkolivegreen;
+    color: rgb(3, 27, 41);
     padding: 10px;
     font-size: 20px;
 }
