@@ -24,7 +24,8 @@ nav a {
 
 .head_img {
     width: 700px;
-}
+    margin-top:2px;
+    font-size:20px;
 
 h2 {
     color: rgb(24, 25, 72);
